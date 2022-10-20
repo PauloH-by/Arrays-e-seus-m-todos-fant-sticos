@@ -1,4 +1,4 @@
-# Arrays-e-seus-m-todos-fant-sticos
+# Arrays
 Exercícios em JS pelo instituto proa
 
 
